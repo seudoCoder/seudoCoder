@@ -2,7 +2,7 @@
   <img src="./assets/neofetch_panel.png" alt="Kirthika S - neofetch style panel" width="900" />
 </p>
 
-<br/>
+<!-- <br/>
 
 <h2 align="center">$ cat about.txt</h2>
 
@@ -78,7 +78,7 @@
 <br/>
 
 <h2 align="center">$ cat contact.txt</h2>
-
+ -->
 <p align="center">
   <a href="mailto:kirthikasubbu7@gmail.com"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=E8955A" /></a>
   <a href="https://www.linkedin.com/in/kirthikasubramani/"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=E8955A" /></a>
